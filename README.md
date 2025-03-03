@@ -65,9 +65,6 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siuxsa0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siuxsa0007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -89,7 +86,7 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 
 
 <p align="center">
-  <b><i>"clam down"</i></b>
+  <b><i>" I think the best way to supervise is by personal example and by frequent code reviews."</i></b>
 </p>
 
 <p align="center">
