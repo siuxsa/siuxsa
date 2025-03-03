@@ -26,14 +26,4 @@ I'm sa, a hacker & Security Researcher and aspiring Cybersecurity Specialist and
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sa) 
 
-  
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sa" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siuxsa&show_icons=true&locale=en&layout=compact" alt="siuxsa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siuxsa&show_icons=true&locale=en" alt="siuxsa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siuxsa007&" alt="siuxsa" /></p>
