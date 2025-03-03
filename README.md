@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F74D&width=435&lines=Keep+learning+and+stay+focused+on+bug+hunting." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5075&pause=10&color=13F74D&center=true&multiline=true&random=true&width=435&lines=+Keep+learning+and+stay+focused;BUG+BOUNTY" alt="Typing SVG" /></a>
 
-<h1 align="center">Hey buddy</h1>
+<h1 align="center">Hey Buddy</h1>
 <h3 align="center">I'm sa, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siuxsa&label=Profile%20views&color=0e75b6&style=flat" alt="siuxsa" /> </p>
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siuxsa&show_icons=true&locale=en" alt="siuxsa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siuxsa&" alt="siuxsa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siuxsa007&" alt="siuxsa" /></p>
