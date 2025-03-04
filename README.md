@@ -4,6 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5075&pause=10&color=13F74D&center=true&multiline=true&random=true&width=435&lines=+Keep+learning+and+stay+focused;BUG+BOUNTY" alt="Typing SVG" /></a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siuxsa&label=Profile%20views&color=0e75b6&style=flat" alt="siuxsa" /> </p>
+
 # Hey Buddy,
 I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
@@ -59,13 +61,18 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 ---
 
 <h2 id="github_stats" align=''>🏷️ GitHub Stats </h2>
- 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siuxsa&show_icons=true&theme=dark&&bg_color=00000000&hide_border=true&custom_title=%20" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuxsa&layout=compact&theme=dark&&bg_color=00000000&hide_border=true&custom_title=%20" height="150">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=siuxsa&theme=dark" alt="GitHub Streak Stats"/>
+</p>
+
 <br></br>
+
 ---
 
 <h2 id="donate" align=''> Support⚡️</h2>
