@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/siuxsa0007/siuxsa0007/blob/main/e4316a93890387.5e70ade47b737.gif?raw=true" width="100%" height="auto"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/siuxsa0007/siuxsa0007/refs/heads/main/Image/cover.jpeg" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5075&pause=10&color=13F74D&center=true&multiline=true&random=true&width=435&lines=+Keep+learning+and+stay+focused;BUG+BOUNTY" alt="Typing SVG" /></a>
