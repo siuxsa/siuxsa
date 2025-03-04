@@ -58,8 +58,9 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 
 ---
 
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://raw.githubusercontent.com/siuxsa0007/siuxsa0007/refs/heads/main/Image/background.jpg"/>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=siuxsa0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=siuxsa0007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siuxsa0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
