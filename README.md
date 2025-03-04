@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5075&pause=10&color=13F74D&center=true&multiline=true&random=true&width=435&lines=+Keep+learning+and+stay+focused;BUG+BOUNTY" alt="Typing SVG" /></a>
 </div>
 
-# 💫 About Me:
+# Hey Buddy,
 I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
@@ -27,13 +27,13 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & web security.
+🪢 Still Learning Bug hunting & web security.
 
-👉 Managing Tech Communities & Content creator.
+🪢 Managing Tech Communities & Content creator.
 
-👉 Writing Some Useful Tools For Myself & Communities
+🪢 Writing Some Useful Tools For Myself & Communities
 
-👉 Building & Contributing To Open Source Projects
+🪢 Building & Contributing To Open Source Projects
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
@@ -90,7 +90,7 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 </p>
 
 <p align="center">
-<a>🌱</a>
+<a>🍃</a>
 </p>
 
 
