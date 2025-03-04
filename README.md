@@ -61,8 +61,8 @@ I'm **[`SA`](https://www.youtube.com/@test)**, a hacker & Security Researcher an
 <h2 id="github_stats" align=''>🏷️ GitHub Stats </h2>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siuxsa&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuxsa&layout=compact&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=siuxsa&show_icons=true&theme=dark&&bg_color=00000000&hide_border=true&custom_title=%20" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuxsa&layout=compact&theme=dark&&bg_color=00000000&hide_border=true&custom_title=%20" height="150">
 </p>
 
 <br></br>
