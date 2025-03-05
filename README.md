@@ -12,12 +12,12 @@ I'm **[`SA`](https://www.facebook.com/md.shorif.ahammed.07/)**, a hacker & Secur
 <details>
   <summary>More about me</summary>
 
-- **Name**: sa
+- **Name**: SA_SHORIF
 - **From**: Bangladesh 
 - **Bug Hunter** | **Security Researcher** | **Pentester**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **Android** 
-- Reach me out at **linkdin**
+- Reach me out at **[`linkedin`](https://www.linkedin.com/in/siuxsa/)**
 
 </details>
 
